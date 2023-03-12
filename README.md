@@ -14,5 +14,5 @@ https://www.youtube.com/watch?v=g2YMYiVBtWE
 
 ```tensorboard --logdir=log. ```
 ```pip cache purge```
-fuck
+
 
